@@ -1,4 +1,4 @@
-# reservation project
+# Reservation Project
 사전예약쿠폰
 
 #### 개발 기술  
